@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2024-10-01",
+        "temperatures": [24, 25, 26, 27, 25],
+        "humidity": 65,
+        "condition": "Sunny"
+    },
+    {
+        "date": "2024-10-02",
+        "temperatures": [27, 28, 29, 28, 27],
+        "humidity": 70,
+        "condition": "Partly Cloudy"
+    },
+    {
+        "date": "2024-10-03",
+        "temperatures": [21, 22, 23, 22, 21],
+        "humidity": 75,
+        "condition": "Rainy"
+    },
+    {
+        "date": "2024-10-04",
+        "temperatures": [23, 24, 25, 24, 23],
+        "humidity": 60,
+        "condition": "Cloudy"
+    },
+    {
+        "date": "2024-10-05",
+        "temperatures": [26, 27, 28, 27, 26],
+        "humidity": 68,
+        "condition": "Sunny"
+    }
+]
