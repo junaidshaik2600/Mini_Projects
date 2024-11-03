@@ -7,7 +7,7 @@ The folder "Weather_App" contains the following files:
 
 1. **data.csv**
    - Stores simplified weather data with columns for date, temperature, humidity, and weather condition.
-   - Sample Data:
+   - Sample Data :
      ```
      date,temperature,humidity,condition
      2024-10-01,25,65,Sunny
