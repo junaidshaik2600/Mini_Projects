@@ -1,6 +1,6 @@
 # Weather App
 
-This project provides a basic implementation of a Weather Application that processes weather data stored in CSV and JSON formats and includes additional CSV file reading and writing functionality. The application is coded in Python and performs tasks like reading from and writing to files, calculating averages, and interacting with the user through the console..
+This project provides a basic implementation of a Weather Application that processes weather data stored in CSV and JSON formats and includes additional CSV file reading and writing functionality. The application is coded in Python and performs tasks like reading from and writing to files, calculating averages, and interacting with the user through the console.
 
 ## Project Structure
 The folder "Weather_App" contains the following files:
